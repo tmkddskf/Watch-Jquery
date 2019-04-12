@@ -10,7 +10,8 @@ Works with: IE 9+, FF 4+, SF 5+, WebKit, CH 7+, OP 12+, BESEN, Node.JS , Rhino 1
 #### 引入
 ```html
 <script src="watch.js" type="text/javascript"></script>
-<!-- watch will be a global variable -->
+<!-- $.watch will be a global variable -->
+<!-- $.formStatusControl will be a global variable -->
 ```
 
 ## 定义操作
